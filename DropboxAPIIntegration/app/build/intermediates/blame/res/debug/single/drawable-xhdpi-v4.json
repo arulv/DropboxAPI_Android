@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/arul/StudioProjects/DropBoxImplementation/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/arul/StudioProjects/DropBoxImplementation/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/arul/StudioProjects/DropBoxImplementation/C:\\Users\\arul.vedhamani\\AndroidStudioProjects\\DropBoxImplementation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "/Users/arul/StudioProjects/DropBoxImplementation/C:\\Users\\arul.vedhamani\\AndroidStudioProjects\\DropBoxImplementation\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

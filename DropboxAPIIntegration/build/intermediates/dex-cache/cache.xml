@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/libs/httpmime-4.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
+        <dex dex="/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/build/intermediates/pre-dexed/debug/httpmime-4.0.3_831e975534100f90544a4752a1db285d296694ac.jar" />
+    </item>
+    <item
+        jar="/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/libs/dropbox-android-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="892526142c794d49161858989ae880998659fa67">
+        <dex dex="/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/build/intermediates/pre-dexed/debug/dropbox-android-sdk-1.6.2_cccda097a0826762abf741f0c310979d833a3c30.jar" />
+    </item>
+    <item
+        jar="/Users/arul/devtools/android-sdks/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_565053d641c5beb929be9f67a81ecceea0ea8dfe.jar" />
+    </item>
+    <item
+        jar="/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/arul/StudioProjects/MobiquityMobileCodeChallenge/app/build/intermediates/pre-dexed/debug/json_simple-1.1_55c917ca92ade76c2f54a51b71f2fe0e2ea60e9d.jar" />
+    </item>
+
+</items>

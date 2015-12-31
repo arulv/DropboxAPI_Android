@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/history_rlMain"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="20dp"
+    android:background="#0000ff"
+    android:orientation="vertical"
+    android:gravity="center_vertical|center_horizontal"
+    android:paddingRight="20dp" >
+    <!--android:background="#2378c8"-->
+    <TextView 
+         android:layout_height="wrap_content"
+         android:text="Mobiquity"
+         android:textColor="#ffffff"
+         android:textSize="26sp"
+         android:layout_centerHorizontal="true"
+         android:layout_centerVertical="true"
+          android:layout_width="wrap_content"/>
+        <TextView 
+         android:layout_height="wrap_content"
+         android:text="Mobile Code Challenge"
+         android:textColor="#ffffff"
+         android:textSize="18sp"
+         android:layout_centerHorizontal="true"
+         android:layout_centerVertical="true"
+          android:layout_width="wrap_content"/>
+
+</LinearLayout>
